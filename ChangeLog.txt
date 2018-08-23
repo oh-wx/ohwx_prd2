@@ -1,0 +1,10 @@
+############################
+#  ChangeLog for ohwx_prd  #
+#                          #
+############################
+
+# 8/23/2018 #
+#############
+#
+#  created new Rails app
+#  initialized Git repo
